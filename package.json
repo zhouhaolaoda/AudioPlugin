@@ -1,0 +1,22 @@
+{
+  "name": "com.plugin.audioplugin",
+  "version": "1.0.0",
+  "description": "audio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouhaolaoda/audioPlugin.git"
+  },
+  "keywords": [
+    "audio"
+  ],
+  "author": "zhouhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouhaolaoda/audioPlugin/issues"
+  },
+  "homepage": "https://github.com/zhouhaolaoda/audioPlugin#readme"
+}
